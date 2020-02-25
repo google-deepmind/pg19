@@ -1,6 +1,6 @@
 # PG-19 Language Modelling Benchmark
 This repository contains the PG-19 language modeling benchmark. It includes a
-set of books extracted rom the Project Gutenberg books library [1], that were
+set of books extracted from the Project Gutenberg books library [1], that were
 published before 1919. It also contains metadata of book titles and publication
 dates.
 
